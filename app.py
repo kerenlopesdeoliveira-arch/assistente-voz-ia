@@ -4,7 +4,7 @@ from openai import OpenAI
 from gtts import gTTS
 import os
 
-client = OpenAI(api_key="client = OpenAI(api_key="SUA_API_KEY_AQUI")")
+client = OpenAI(api_key="SUA_API_KEY_AQUI")
 
 # Gravar áudio
 fs = 44100
